@@ -1,7 +1,7 @@
-Awesome-javascript-book
+Awesome-javascript-books
 =======================
 
-A collection of awesome online and freee javascript book.
+A collection of awesome online and free javascript books.
 
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent-JavaScript](http://eloquentjavascript.net/)
@@ -12,3 +12,5 @@ A collection of awesome online and freee javascript book.
 * [stream-handbook](https://github.com/substack/stream-handbook)
 * [backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+* [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
