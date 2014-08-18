@@ -10,7 +10,7 @@ A collection of awesome online and free javascript books.
 * [Javascript Enlightenment](http://www.javascriptenlightenment.com)
 * [Building A JavaScript Framework](http://dailyjs.com/files/build-a-javascript-framework.pdf)
 * [Dive into HTML 5](http://diveintohtml5.info/index.html)
-* [jQuery Enlightenment-may be too old, based on jquery 1.3.2](http://jqueryenlightenment.com/jquery_enlightenment.pdf)
+* [jQuery Enlightenment---(may be too old, based on jquery 1.3.2)](http://jqueryenlightenment.com/jquery_enlightenment.pdf)
 * [jQuery Fundermentals](http://jqfundamentals.com/)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
