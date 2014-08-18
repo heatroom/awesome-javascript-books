@@ -11,6 +11,7 @@ A collection of awesome online and free javascript books.
 * [Building A JavaScript Framework](http://dailyjs.com/files/build-a-javascript-framework.pdf)
 * [Dive into HTML 5](http://diveintohtml5.info/index.html)
 * [jQuery Enlightenment](http://jqueryenlightenment.com/jquery_enlightenment.pdf)
+* [jQUery Fundermentals](http://jqfundamentals.com/)
 * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 * [stream-handbook](https://github.com/substack/stream-handbook)
