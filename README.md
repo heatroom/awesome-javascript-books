@@ -20,3 +20,4 @@ A collection of awesome online and free javascript books.
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 * [JavaScript Patterns 中译本](https://github.com/TooBug/javascript.patterns)
+* [Discover Meteor 中文版](http://zh.discovermeteor.com/)
