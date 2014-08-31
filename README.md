@@ -25,7 +25,8 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 - [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 - [Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
 - [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
-* [JavaScript Patterns 中译本](https://github.com/TooBug/javascript.patterns)
+- [JavaScript Patterns 中译本](https://github.com/TooBug/javascript.patterns)
+- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 
 ### ES6
@@ -36,14 +37,17 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 ### Javascript Frameworks
 
 - [Building A JavaScript Framework](http://dailyjs.com/files/build-a-javascript-framework.pdf)
-- [backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals)
+- [Backbone-fundamentals](https://github.com/addyosmani/backbone-fundamentals)
 - [jQuery Enlightenment---(may be too old, based on jquery 1.3.2)](http://jqueryenlightenment.com/jquery_enlightenment.pdf)
 - [jQuery Fundermentals](http://jqfundamentals.com/)
 
 ### Nodejs Basics
 
-- [stream-handbook](https://github.com/substack/stream-handbook)
-- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [The Node Beginner Book](http://www.nodebeginner.org/)
+- [Felix's Node.js Guide](http://nodeguide.com/)
+- [Stream-handbook](https://github.com/substack/stream-handbook)
+- [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+
 
 ### Nodejs Frameworks
 
