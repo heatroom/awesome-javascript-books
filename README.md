@@ -30,7 +30,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 
 
 ### ES6
-
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
 
