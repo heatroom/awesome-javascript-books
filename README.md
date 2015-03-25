@@ -15,7 +15,6 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 
 
 ### Javascript Basics
-- [JavaScript编程指南](http://pij.robinqu.me/)
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent-JavaScript](http://eloquentjavascript.net/)
 - [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html)
