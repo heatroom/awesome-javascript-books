@@ -40,6 +40,7 @@ Inspired by the [awesome](https://github.com/bayandin/awesome-awesomeness) list 
 - [jQuery Enlightenment---(may be too old, based on jquery 1.3.2)](http://jqueryenlightenment.com/jquery_enlightenment.pdf)
 - [jQuery Fundermentals](http://jqfundamentals.com/)
 - [Single page apps in depth](http://singlepageappbook.com/)
+- [The Road to learn React](https://www.robinwieruch.de/the-road-to-learn-react/)
 
 ### Nodejs Basics
 
